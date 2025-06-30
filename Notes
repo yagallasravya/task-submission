@@ -1,0 +1,16 @@
+
+- Used Mocki.io for fake API data.
+- In `transaction-table`, added a `setTimeout()` to simulate real-world loading.
+- Code is modular and readable with comments.
+- Tasks were completed without external libraries unless specified.
+
+## how to Run (for React Task)
+
+1. Navigate to `transaction-table/`
+2. Run: `npm install`
+3. Then: `npm start`
+
+//for account-balance
+1. Navigate to `account-balance/`
+2. Run: `npm install`
+3. Then: `npm start`
